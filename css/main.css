@@ -51,3 +51,12 @@
 .jumbotron .container a {
   color: white;
 }
+
+h1.about-me-header {
+    text-align: center;
+}
+
+p.about-me-content {
+    padding: 15px;
+    margin: 5px;
+}
