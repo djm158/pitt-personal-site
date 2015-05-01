@@ -54,15 +54,19 @@
 
 h1.about-me-header {
     text-align: center;
+    padding: 30px;
 }
 
 p.about-me-content {
-    padding: 15px;
     margin: 5px;
     font-family: 'Droid Sans', sans-serif;
     line-height: 150%;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
-body {
+.about-me {
+    padding: 60px;
     background-image: url("../images/subtle-grey-polygon.png");
+
 }
