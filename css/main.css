@@ -57,7 +57,7 @@ h1.about-me-header {
     padding: 30px;
 }
 
-p.about-me-content {
+.about-me-content {
     margin: 5px;
     font-family: 'Droid Sans', sans-serif;
     line-height: 150%;
